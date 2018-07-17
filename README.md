@@ -1,0 +1,1 @@
+# Instant-BSOD-in-Powershell
