@@ -2,7 +2,7 @@
 
 Get some crashing your PC! Works for Windows 7!
 
-Use "Command Prompt" as Admin.
+Use "Command Prompt" (CMD) as Admin.
 
 Join this server:
 [ZXLounge](https://discord.io/zxlounge)
